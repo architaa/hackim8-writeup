@@ -7,4 +7,4 @@ So the flag for misc3 was:
 
     flag{ RWSvIveoiFjI6WS/h3J8Us0wUEjA53cQLuHJEwOD/sT5JsGvguZjlKmU}
     
- ![](hackim8-writeup/images/misc3.PNG?raw=true) 
+ ![](https://github.com/architaa/hackim8-writeup/blob/master/images/misc3.PNG?raw=true) 
